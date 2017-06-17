@@ -1,0 +1,13 @@
+img{
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+
+}
+
+.title{
+	font-family: Pompiere;
+	width: 30%;
+	margin-left:1.66%;
+	border-bottom: 4px solid #999999;
+}
