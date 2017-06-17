@@ -1,2 +1,0 @@
-# photoBlog
-Simple photo blog
